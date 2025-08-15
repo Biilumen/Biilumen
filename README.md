@@ -11,6 +11,3 @@
 - **Программирование**: C#, алгоритмы, ООП, шаблоны проектирования
 - **Оптимизация**: Profiler, Addressables, оптимизация draw calls
 - **Версионный контроль**: Git, GitHub/GitLab
-
-## 📈 Статистика GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biilumen)](https://github.com/anuraghazra/github-readme-stats)
