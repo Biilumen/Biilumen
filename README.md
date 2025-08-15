@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Biilumen/Biilumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
+- 🎮 Разработка на Unity с 2022 года
+- 💡 Специализация: [геймплей-программирование, оптимизация, разработка архитектуры проекта]
+- 🌱 Сейчас изучаю: [укажите актуальные технологии/направления, которые изучаете]
+- 📫 Как связаться: [@BiiLumen]
 
-Here are some ideas to get you started:
+## 🛠 Технологии и навыки
+- **Unity Engine**: 3D/2D разработка, UI система, анимации, физика
+- **Программирование**: C#, алгоритмы, ООП, шаблоны проектирования
+- **Оптимизация**: Profiler, Addressables, оптимизация draw calls
+- **Версионный контроль**: Git, GitHub/GitLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Статистика GitHub
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biilumen)](https://github.com/anuraghazra/github-readme-stats)
